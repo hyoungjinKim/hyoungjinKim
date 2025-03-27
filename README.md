@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=#F4D47B&height=120&text=HyoungJin's%20GitHub&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=f4d47b&height=120&text=HyoungJin's%20GitHub&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -25,8 +25,8 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hyoungjinKim&bg_color=180,afb464,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyoungjinKim&layout=compact&bg_color=180,afb464,00000000&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hyoungjinKim&bg_color=180,f4d47b,00000000&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyoungjinKim&layout=compact&bg_color=180,f4d47b,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
